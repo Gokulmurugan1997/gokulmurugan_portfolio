@@ -7,9 +7,9 @@ function Home() {
     <div className='container1'>
     <div className='drop-text'>
     <div className='container2'>
-      <h1>Hi</h1>
-      <h1>I'm Gokulmurugan</h1>
-      <h2>Developer</h2>
+      <h1>Hi...</h1>
+      <h1>I'm Gokulmurugan!</h1>
+      <h2>Web Developer</h2>
       <div className='resume jumping-content'>
           <a href="https://drive.google.com/file/d/12zMA62dJlEF_aOkXBX4w8r2BvozqTSbS/view?usp=drivesdk" target='_blank'>
           Resume{' '}

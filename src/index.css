@@ -19,13 +19,12 @@
   justify-content: center;
 }
 .container2{
+  width: auto;
   height: 40vh;
-  border-radius: 30px;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  opacity: 90%;
   gap: 10px;
 }
 .drop-text {
@@ -498,7 +497,7 @@ a {
   }
 
   /* Container adjustments */
-  .container, .container1, .container-4 {
+  .container, .container1,.container2, .container-4 {
     height: auto;
   }
 
