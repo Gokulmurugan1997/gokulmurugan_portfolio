@@ -3,7 +3,7 @@ import Navbar from './Navbar';
 
 function About() {
   return (
-    <div className="container">
+    <div className="container drop-text">
       <Navbar />
       <div className="about-section">
         <div className="photo-container"></div>

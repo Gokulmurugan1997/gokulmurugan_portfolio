@@ -96,7 +96,7 @@ color: black;
   cursor: pointer;
   width: 40lh;
   height: 30vh;
-  background-image: url('/image/Markdown.JPG');
+  background-image: url('../Image/Markdown.JPG');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -105,7 +105,7 @@ color: black;
   cursor: pointer;
   width: 40lh;
   height: 30vh;;
-  background-image: url('/image/Shop.JPG');
+  background-image: url('../image/Shop.JPG');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -114,7 +114,7 @@ color: black;
   cursor: pointer;
   width: 40lh;
   height: 30vh;
-  background-image: url('/image/Edtech.jpg');
+  background-image: url('../image/Edtech.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -123,7 +123,7 @@ color: black;
   cursor: pointer;
   width: 40lh;
   height: 30vh;
-  background-image: url('/image/Basic_App.JPG');
+  background-image: url('../image/Basic_App.JPG');
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -243,7 +243,7 @@ color: black;
   flex-direction: column;
   color: white;
   gap: 30%;
-  background-image: url('/Image/Image3.jpg');
+  background-image: url('../Image/Image3.jpg');
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -377,6 +377,7 @@ a {
   font-size: 2rem;
   margin-bottom: 20px;
   text-align: center;
+  color: black;
 }
 
 .experience {
@@ -386,7 +387,7 @@ a {
 }
 
 .experience-item {
-  background-color: #fff;
+  background-color: #f7f1f1;
   padding: 20px;
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -395,6 +396,7 @@ a {
 .experience-item h3 {
   font-size: 1.6rem;
   margin-bottom: 10px;
+  color: black;
 }
 
 .experience-duration {
@@ -426,6 +428,7 @@ a {
   font-size: 2rem;
   margin-bottom: 20px;
   text-align: center;
+  color: black;
 }
 
 .education {
@@ -444,6 +447,7 @@ a {
 .education-item h3 {
   font-size: 1.6rem;
   margin-bottom: 10px;
+  color: black;
 }
 
 .education-duration {
