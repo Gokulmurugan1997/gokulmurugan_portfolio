@@ -11,7 +11,7 @@ function Home() {
       <h1>I'm Gokulmurugan!</h1>
       <h2>Web Developer</h2>
       <div className='resume jumping-content'>
-          <a href="https://drive.google.com/file/d/12zMA62dJlEF_aOkXBX4w8r2BvozqTSbS/view?usp=drivesdk" target='_blank'>
+          <a href="https://drive.google.com/file/d/1knq92qqqQKkRZSWFU6E-3iMNtRQousLy/view?usp=drivesdk" target='_blank'>
           Resume{' '}
           <i className="fa-solid fa-download" style={{color: "#f9fbfb"}}>
             </i>

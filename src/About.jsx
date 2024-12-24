@@ -27,20 +27,20 @@ function About() {
         <div className="experience">
           <div className="experience-item">
             <h3>Web Developer at HCL Technologies</h3>
-            <p className="experience-duration">January 2022 - Present</p>
+            <p className="experience-duration">December 2020 - Present</p>
             <ul>
-              <li>Developed and maintained responsive websites using HTML, CSS, and JavaScript.</li>
-              <li>Collaborated with the UI/UX team to design seamless user interfaces.</li>
-              <li>Optimized web applications for speed and scalability.</li>
-            </ul>
-          </div>
-          <div className="experience-item">
-            <h3>Member Technical Staff at HCL Technologies</h3>
-            <p className="experience-duration">December 2020 - December 2021</p>
-            <ul>
-              <li> Creating/Revising ECO for Manufacturing Process Verification documents in PLM for MDR Regulation</li>
-              <li>Proficiency in Creating and Reviewing documents in PLM Tools like Windchill, Adaptiv.</li>
-              <li>Projects level risks are analyzing, Evaluating, controlling, and monitoring the risk in every month</li>
+<li>Supporting in creation of Project Management Web application called PM SMART for tracking daily and monthly efforts of resource utilization for the project.</li>
+<li>Supporting in improvisation of Employee Self Service website for maximizing user efficiency.</li>
+<li>Using multiple components in application for code reusability.</li>
+<li>Utilized HTML, CSS, and JavaScript to create visually appealing and responsive web pages that met client requirements.</li>
+<li>Utilized version control systems such as Git to track changes throughout the development process.</li>
+<li>Worked closely with UX/UI designers to translate their designs into functional web applications.</li>
+<li>Developed user-friendly web forms with validation and error handling.</li>
+<li>Demonstrated strong organizational and time management skills while managing multiple projects.</li>
+<li>Participated in team projects, demonstrating an ability to work collaboratively and effectively.</li>
+<li>Managed time efficiently in order to complete all tasks within deadlines.</li>
+<li>Collaborated with back-end developers to improve website functionality and integrate new features.</li>
+
             </ul>
           </div>
         </div>
@@ -58,7 +58,7 @@ function About() {
           </div>
           <div className="education-item">
             <h3>Higher Secondary Education</h3>
-            <p className="education-duration">June 2013 - May 2016</p>
+            <p className="education-duration">June 2013 - May 2015</p>
             <p className="education-institute">Grace Metric Higher secondary School-Erode-Tamilnadu</p>
 
           </div>
