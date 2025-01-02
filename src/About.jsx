@@ -10,14 +10,13 @@ function About() {
 
         <div className="about-content">
           <h1>About Me</h1>
-          <p>
-            Hello, I'm Gokulmurugan, a passionate web developer with a strong
-            background in creating dynamic and responsive websites. I specialize
-            in front-end development, working with technologies like HTML, CSS,
-            JavaScript, and React. I enjoy problem-solving and building intuitive
-            user experiences. When I'm not coding, you can find me exploring new
-            technologies or collaborating on open-source projects.
-          </p>
+          <ul>
+          <li>Member Technical Staff at HCLTech with extensive experience in helping companies create and maintain a better code base for reusability. </li>
+          <li>Passionate about learning and development with a strong desire to apply skills on a larger development team at an organization. </li>
+<li>Skilled in designing scalable and efficient backend systems with MongoDB for data storage, management, and querying. </li>
+<li>Adept at integrating MongoDB with full-stack applications to build dynamic, data-driven solutions. Hardworking and eager to secure an Developer position where I can leverage my backend development skills in Node.js, MongoDB, and other relevant technologies.</li>
+
+          </ul>
         </div>
       </div>
 
@@ -29,17 +28,15 @@ function About() {
             <h3>Web Developer at HCL Technologies</h3>
             <p className="experience-duration">December 2020 - Present</p>
             <ul>
-<li>Supporting in creation of Project Management Web application called PM SMART for tracking daily and monthly efforts of resource utilization for the project.</li>
-<li>Supporting in improvisation of Employee Self Service website for maximizing user efficiency.</li>
-<li>Using multiple components in application for code reusability.</li>
-<li>Utilized HTML, CSS, and JavaScript to create visually appealing and responsive web pages that met client requirements.</li>
-<li>Utilized version control systems such as Git to track changes throughout the development process.</li>
-<li>Worked closely with UX/UI designers to translate their designs into functional web applications.</li>
-<li>Developed user-friendly web forms with validation and error handling.</li>
-<li>Demonstrated strong organizational and time management skills while managing multiple projects.</li>
-<li>Participated in team projects, demonstrating an ability to work collaboratively and effectively.</li>
-<li>Managed time efficiently in order to complete all tasks within deadlines.</li>
-<li>Collaborated with back-end developers to improve website functionality and integrate new features.</li>
+            <li>Developed a full-stack application where users can store, update, and retrieve information from a MongoDB database.</li>
+            <li>Designed MongoDB schemas for storing user data, product details, and transaction records.</li>
+<li>Implemented authentication using JWT (JSON Web Token) and integrated MongoDB for storing user profiles and session data.</li>
+<li>Utilized Mongoose to interact with MongoDB, ensuring efficient queries and data modeling.</li>
+<li><b>API for Product Management (Node.js + Express + MongoDB)</b></li>
+<li>Built a RESTful API using Node.js and Express.js to manage product details for an e-commerce application.</li>
+<li>Integrated MongoDB to store product data, and created endpoints to allow clients to perform CRUD operations on products.</li>
+<li>Used Mongoose to define schemas and validate data before interacting with the database.</li>
+
 
             </ul>
           </div>
